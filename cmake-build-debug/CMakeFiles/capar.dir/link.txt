@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/capar.dir/main.c.o CMakeFiles/capar.dir/lab2.c.o CMakeFiles/capar.dir/lab3.c.o CMakeFiles/capar.dir/lab4.c.o  -o capar 
